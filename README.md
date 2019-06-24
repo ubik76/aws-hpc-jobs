@@ -20,13 +20,19 @@ Here is the list of the current openings, if you are interested and want to know
 1. **Business Development**
     1. https://www.amazon.jobs/en/jobs/838680 - USA, Houston
     1. https://www.amazon.jobs/en/jobs/838679 - USA, New York
+    1. https://www.amazon.jobs/en/jobs/786829 - France
+    1. https://www.amazon.jobs/en/jobs/786828 - Germany
+
 1. **Alliance Manager**
     1. https://www.amazon.jobs/en/jobs/834387/ - USA, San Francisco
 
 ## Other HPC jobs
 
 1. **HPC Specialist Solution Architect**
-    1. https://jobfinder.amazon.com/job/868987 - USA, New York
+    1. https://www.amazon.jobs/en/jobs/868987 - USA, New York
+    
+1. **HPC Specialist Partner Solution Architect**
+    1. https://www.amazon.jobs/en/jobs/781532 - USA, Seattle
 
 1. **HPC R&D** 
     1. If you are a Software Developer you may be interested in these job posts. They are based in Seattle and Asti (Italy): 
